@@ -1,2 +1,2 @@
-# An example of a responsive hero template web page
-Original concept is from [freeCodeCamp.Org](https://www.freecodecamp.org)
+# <div align=center>An example of a responsive hero template web page</div>
+![](Tribute_Page_Screenshot.png?raw=true)
